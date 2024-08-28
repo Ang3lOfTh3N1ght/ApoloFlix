@@ -1,0 +1,53 @@
+body {
+
+    color: black;
+    background-color: black;
+    margin: 0px;
+    font-size: 20px;
+}
+
+header {
+    border-bottom: solid 5px;
+    border-bottom-color: #FAA620;
+    padding: 20px;
+    font-size: 32px;
+    color: #FAA620;
+    background-color: black;
+    font-family: "Lilita One", sans-serif;
+}
+
+section {
+    justify-content: center;
+    background-color: #9662ff;
+    padding-bottom: 55 px;
+    padding-top: 55 px;
+    display: flex;
+    font-size: 22px;
+    font-family: "Merriweather", serif;
+}
+
+.chamada-texto {
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+
+}
+
+.video-um {
+    padding-top: 42px;
+    padding-right: 20px;
+
+}
+
+.dois {
+    background-color: black;
+    color: #FAA620;
+    display:flex;
+    padding-top: 35px;
+    padding-left: 25px;
+}
+
+img {
+    height: 150px;
+}
